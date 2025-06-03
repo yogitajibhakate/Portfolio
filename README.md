@@ -1,4 +1,3 @@
-# Portfolio
 # 🌟 Personal Portfolio Website
 
 Welcome to my personal portfolio website! This site highlights my projects, technical skills, and contact information in a clean and responsive design.
