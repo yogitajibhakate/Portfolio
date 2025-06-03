@@ -19,7 +19,7 @@ Welcome to my personal portfolio website! This site highlights my projects, tech
 
 ## 📬 Contact
 
-Feel free to connect with me through my portfolio or reach out via [LinkedIn](https://www.linkedin.com/in/yogitajibhakate) or [GitHub](https://github.com/yogitajibhakate).
+Feel free to connect with me through my portfolio or reach out via [LinkedIn](https://www.linkedin.com/in/yogita-jibhakate/) or [GitHub](https://github.com/yogitajibhakate).
 
 ---
 
